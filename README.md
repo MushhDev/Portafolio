@@ -44,3 +44,52 @@ mv portfolio /xampp/htdocs/
 # Inicia Apache desde el panel de control
 # Abre en navegador: http://localhost/portfolio/
 
+# 📁 Estructura del proyecto
+
+```
+portfolio/
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── main.js
+│   ├── img/
+│       └── (imágenes del portafolio)
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+├── index.php
+├── projects.php
+├── contact.php
+└── README.md
+```
+
+
+# 📷 Capturas de pantalla
+
+> Próximamente cuando el diseño esté avanzado. 🖼️
+> (¡Subiré imágenes o un video del portafolio en acción!)
+
+
+# 📫 Contacto
+
+* 📬 Email: [mushhdev@gmail.com](mailto:mushhdev@gmail.com)
+* 🐙 GitHub: [github.com/MushhDev](https://github.com/MushhDev)
+
+
+# 📜 Licencia
+
+Este proyecto está bajo la licencia **MIT**.
+Puedes usar el código como base o inspiración, ¡pero si te gusta, deja una ⭐!
+
+
+# 🌟 ¿Por qué lo hice?
+
+Porque quiero empezar a crear cosas geniales para la comunidad, compartirlas en abierto, y crecer como desarrollador.
+Este portafolio es mi primer paso en esa dirección 🚀
+
+---
+
+> *"Primero lo construyes para ti, luego lo comparten los demás."* – MushhDev
+
+```
