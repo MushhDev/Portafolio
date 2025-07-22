@@ -48,20 +48,15 @@ mv portfolio /xampp/htdocs/
 
 ```
 portfolio/
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── js/
-│   │   └── main.js
-│   ├── img/
-│       └── (imágenes del portafolio)
-├── includes/
-│   ├── header.php
-│   ├── footer.php
 ├── index.php
 ├── projects.php
 ├── contact.php
-└── README.md
+├── header.php
+├── footer.php
+├── styles.css
+├── main.js
+└── img/
+    └── ( imágenes )
 ```
 
 
