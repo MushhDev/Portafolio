@@ -88,8 +88,4 @@ Puedes usar el código como base o inspiración, ¡pero si te gusta, deja una �
 Porque quiero empezar a crear cosas geniales para la comunidad, compartirlas en abierto, y crecer como desarrollador.
 Este portafolio es mi primer paso en esa dirección 🚀
 
----
-
 > *"Primero lo construyes para ti, luego lo comparten los demás."* – MushhDev
-
-```
