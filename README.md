@@ -1,6 +1,6 @@
 # 💻 Portafolio Web - MushhDev
 
-> 🚧 Proyecto en desarrollo – próximamente en línea
+> web: https://portafolio-n7ht.onrender.com/
 
 Este es mi **portafolio web personal**, creado con 💙 para mostrar mis habilidades como desarrollador, mis proyectos, y facilitar el contacto conmigo.  
 Estoy construyendo todo desde cero usando tecnologías clásicas pero potentes: **PHP, HTML, CSS y JavaScript**.
